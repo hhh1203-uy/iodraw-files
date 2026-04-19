@@ -178,12 +178,8 @@
         <mxCell id="MgbL6kekeeI8IBhIe7fw-42" value="研究内容与主要贡献" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="MgbL6kekeeI8IBhIe7fw-38">
           <mxGeometry x="519" y="169" width="204" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="MgbL6kekeeI8IBhIe7fw-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.88;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="MgbL6kekeeI8IBhIe7fw-38" source="MgbL6kekeeI8IBhIe7fw-39" target="MgbL6kekeeI8IBhIe7fw-40">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="129" y="132" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="MgbL6kekeeI8IBhIe7fw-43" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.88;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="MgbL6kekeeI8IBhIe7fw-38" source="MgbL6kekeeI8IBhIe7fw-39" target="MgbL6kekeeI8IBhIe7fw-40">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MgbL6kekeeI8IBhIe7fw-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="MgbL6kekeeI8IBhIe7fw-38" source="MgbL6kekeeI8IBhIe7fw-39" target="MgbL6kekeeI8IBhIe7fw-41">
           <mxGeometry relative="1" as="geometry">
