@@ -178,12 +178,15 @@
         <mxCell id="MgbL6kekeeI8IBhIe7fw-42" value="研究内容与主要贡献" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="MgbL6kekeeI8IBhIe7fw-38">
           <mxGeometry x="519" y="169" width="204" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="MgbL6kekeeI8IBhIe7fw-43" value="" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="MgbL6kekeeI8IBhIe7fw-38" source="MgbL6kekeeI8IBhIe7fw-38" target="MgbL6kekeeI8IBhIe7fw-40">
+        <mxCell id="MgbL6kekeeI8IBhIe7fw-43" value="" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="MgbL6kekeeI8IBhIe7fw-38">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="370" y="257" />
-              <mxPoint x="129" y="257" />
+              <mxPoint x="341" />
+              <mxPoint x="341" y="162" />
+              <mxPoint x="100" y="162" />
             </Array>
+            <mxPoint x="338.5" as="sourcePoint" />
+            <mxPoint x="100" y="74" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MgbL6kekeeI8IBhIe7fw-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="MgbL6kekeeI8IBhIe7fw-38" source="MgbL6kekeeI8IBhIe7fw-39" target="MgbL6kekeeI8IBhIe7fw-41">
